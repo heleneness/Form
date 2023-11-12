@@ -1,5 +1,5 @@
 # Form Task
 
-## First assignment following topics
+## First task following topics
 
 ### Figma, html, css
